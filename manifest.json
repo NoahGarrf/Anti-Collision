@@ -1,0 +1,13 @@
+{
+    "id": "anti-collision",
+    "name": "Anti Collision",
+    "description": "Mod that lets users turn off building collisions globally or around fixed points",
+    "version": "1.0.0",
+    "author": {
+        "name": "Noahhhhhhh"
+    },
+    "main": "index.js",
+	"dependencies": {
+    "subway-builder": ">=1.7.0"
+	}
+}
